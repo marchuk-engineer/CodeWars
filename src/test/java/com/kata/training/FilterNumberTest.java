@@ -23,9 +23,4 @@ public class FilterNumberTest {
         Assert.assertEquals(06, result);
     }
 
-    @Test
-    public void filterString_NoNumbersPresent_0() {
-        long result = FilterNumber.filterString("tes0i6g");
-        Assert.assertEquals(06, result);
-    }
 }

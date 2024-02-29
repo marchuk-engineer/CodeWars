@@ -20,3 +20,7 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\86
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
+a
+1src/main/java/com/kata/training/FilterNumber.java,f\a\facc79a56154522650a0191c29ad3a5f6270f2cc
+e
+5src/test/java/com/kata/training/FilterNumberTest.java,b\a\ba68c95bd9ef2d2b929ee9231c9cce097eb3321b
