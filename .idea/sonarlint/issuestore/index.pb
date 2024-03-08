@@ -1,12 +1,6 @@
 
-Y
-)src/main/java/com/kata/training/Main.java,6\4\641f78cd115d92eed788b2d48bb2b143d10757ae
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-Y
-)src/main/java/com/kata/training/Kata.java,a\d\ad2a0e671e0870c6efa90d1316decc2d91ed32d6
-]
--src/test/java/com/kata/training/KataTest.java,9\0\90d2eb2474381930d7643c1e5383fbb4b30e43da
 Å
 Q.idea/sonarlint/securityhotspotstore/6/4/641f78cd115d92eed788b2d48bb2b143d10757ae,8\b\8b6ff87f95bcf803161d7d7b528c84df7118860e
 :
@@ -24,3 +18,17 @@ a
 1src/main/java/com/kata/training/FilterNumber.java,f\a\facc79a56154522650a0191c29ad3a5f6270f2cc
 e
 5src/test/java/com/kata/training/FilterNumberTest.java,b\a\ba68c95bd9ef2d2b929ee9231c9cce097eb3321b
+]
+-src/main/java/com/kata/training/Solution.java,4\6\46e7827dcdf3e7ee05d68a1a809c68f4a3446ad9
+f
+6src/main/java/com/kata/training/MaximumTripletSum.java,7\8\78260a5d7ca04d00f31855ef468f94311e4f5136
+a
+1src/test/java/com/kata/training/SolutionTest.java,8\1\81b1adb3499b6162a6cce1dd0989428a0c63f4ec
+Å
+Q.idea/sonarlint/securityhotspotstore/f/a/facc79a56154522650a0191c29ad3a5f6270f2cc,2\d\2dd897eed32fc2d94a68e64c599e6ad559f8b227
+Å
+Q.idea/sonarlint/securityhotspotstore/7/8/78260a5d7ca04d00f31855ef468f94311e4f5136,3\4\34190409e58c08535b579f9dd7a983dda03d8596
+Å
+Q.idea/sonarlint/securityhotspotstore/4/6/46e7827dcdf3e7ee05d68a1a809c68f4a3446ad9,f\6\f652d830f793601929f4ec84a2ab42e49b86dd51
+j
+:src/test/java/com/kata/training/MaximumTripletSumTest.java,3\5\3545dab618675b74c006c3ab55508b64f975f8c2
